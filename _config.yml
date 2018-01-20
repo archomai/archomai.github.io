@@ -32,7 +32,7 @@ author:  # change following line titleo your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name:  # jalpc
 
 # analytics
 ## google analytics
@@ -56,7 +56,7 @@ blog_carousel: on  # blog page carousel switch
 
 # scss
 sass:
-  style: compressed
+  style: expanded #compressed
 
 # Build settings
 encoding: utf-8
@@ -67,4 +67,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
