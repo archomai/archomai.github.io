@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "python basic"
+title:  "Python Basic"
 date:   2018-01-18
-desc: "python basic"
+desc: "Python Basic"
 keywords: "python"
 categories: [Python]
 tags: [python]
