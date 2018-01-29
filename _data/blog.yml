@@ -6,6 +6,9 @@
 - name: Python
   href: /python/
 
+- name: Django
+  href: /django/
+
 - name: Computer Science #Linux
   href: /computer science/ #/linux/
 
