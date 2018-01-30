@@ -9,14 +9,11 @@
 - name: Django
   href: /django/
 
-- name: Computer Science #Linux
-  href: /computer science/ #/linux/
+- name: ComputerScience #Linux
+  href: /computerscience/ #/linux/
 
-- name: HTML
-  href: /html/
-
-- name: Css
-  href: /css/
+- name: HTML/CSS
+  href: /html_css/
 
 - name: Git
   href: /git/
