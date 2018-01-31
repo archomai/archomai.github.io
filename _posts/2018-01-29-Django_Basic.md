@@ -29,7 +29,7 @@ icon: icon-django
 
 ## 웹프레임 워크 빠른 순서
 
-<위에서 부터 빠른 순서>
+- 위에서 부터 빠른 순서
 
 spring(java) : 빠름 (장점 java 사용자가 많음 / 단점 java 언어가 어려움)
 
@@ -41,13 +41,11 @@ Django (python)
 
 rails (Ruby) : 개발자간 코드 구성이 너무 달라 협업에 어려움
 
-
-
-------
+----
 
 ## 프레임워크 시장 현황
 
-<위에서 부터 많이 사용하는 순서>
+- 위에서 부터 많이 사용하는 순서
 
 sprint/php : 일자리는 많으나 일자리의 질이 떨어짐
 
@@ -59,7 +57,7 @@ django
 
 rails
 
-------
+----
 
 ## 프론트 엔드 프로그램
 
@@ -75,7 +73,7 @@ react 추천 (많은 업체가 이미 사용중)
 
 새로 시작하기는 vueJS
 
----
+----
 
 ## 웹서버
 
@@ -302,6 +300,8 @@ Sqlectron-1.29.0.dmg
 mac에서 실행시 파일 폴더에서 실행
 
 ---
+
+## makemigrations
 
 ~/projects/django/djangogirls_tutorial/django master*
 fc-djangogirls ❯ python manage.py makemigrations
